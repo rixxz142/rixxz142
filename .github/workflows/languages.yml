@@ -24,7 +24,9 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false
           path: dist/languages.svg
-          token: ${{ secrets.STATS_TOKEN }}
+          # Revert to STATS_TOKEN once a *classic* PAT is stored; the current
+          # secret value is rejected by the GitHub API.
+          token: ${{ secrets.GITHUB_TOKEN }}
 
 
       - name: push languages.svg to the output branch
