@@ -12,7 +12,14 @@
 
 ###
 
-<p data-importer="text" align="left">I’m drawn to the places where software stops being just code and starts becoming a living system — where a simple idea turns into something that has to be designed, built, deployed, maintained, and kept alive. Linux has always felt like home to me; I enjoy the quiet satisfaction of opening a terminal, understanding what is happening beneath the surface, breaking things, fixing them, and learning why they broke in the first place. I love challenges that force me beyond what I already know, whether it means shaping data and logic into reliable systems, connecting different layers of an application, building interfaces that people actually use, automating repetitive work, or turning a rough concept into something running in the real world. Over time, I’ve found myself moving naturally between the visible side of software and everything hiding underneath it — from applications and APIs to databases, servers, containers, networking, deployment, and the infrastructure that keeps everything connected. I don’t particularly enjoy taking the easy path; I’d rather chase the problem that makes me stare at the screen at 3 AM wondering why the hell it isn’t working, because somewhere inside that frustration there is usually something worth learning. I’m still building, still breaking, still experimenting, and still figuring out what comes next — one system, one challenge, and one `sudo` at a time.</p>
+<p data-importer="text" align="left">I enjoy building things and figuring out how they work. What started as an interest in writing code slowly grew into an interest in everything around it — how applications communicate, how data moves, how servers run, and what actually happens behind the screen.
+
+I’m also a Linux enthusiast, and using Linux has made me genuinely curious about what’s happening under the hood. I enjoy working in the terminal, experimenting with my system, breaking things, fixing them, and sometimes spending way too much time figuring out why something suddenly stopped working. For me, that process is just as interesting as the final result.
+
+I like challenges that push me beyond what I already know. That could mean working with databases, building APIs, connecting different parts of an application, designing interfaces, automating repetitive tasks, or setting up the infrastructure needed to make a project actually run. I enjoy moving between different parts of a system and understanding how they fit together rather than staying focused on just one layer.
+
+I’m still figuring out exactly where I want to take my career, but I know I want to keep building, experimenting, and learning. I don’t mind taking the harder route if it means I get to understand something better. I’ll probably break a lot of things along the way, but that’s usually how I learn — one problem, one project, and one `sudo` at a time.
+</p>
 
 ###
 
